@@ -1,0 +1,18 @@
+ul li:hover {
+    background-color: #eee;
+}
+
+.close {
+    cursor: pointer;
+    float: right;
+  }
+  
+.close:hover {
+    background: #bbb;
+    cursor: pointer;
+}
+
+.completed {
+    color: grey;
+    text-decoration: line-through;
+}
