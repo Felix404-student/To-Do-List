@@ -3,6 +3,8 @@ Simple To-Do list that allows crossing out, adding and removing items. Preserves
 
 "JS Todos Exercise" for UMass/Springboard Bootcamp
 
+Written in Javascript, HTML, and CSS. Launch by double clicking the .html file
+
 # Part 1
 For this assignment you will be combining your knowledge of DOM access and events to build a todo app!
 
